@@ -1,6 +1,7 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
 Name : Sanjay Kumar.S.S
+
 Roll no :212221240048
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
@@ -117,8 +118,6 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 ## Kiel - Program  
 ```
-
-
 #include <lpc214x.h>
 #include <stdint.h>
 #include <stdlib.h>
