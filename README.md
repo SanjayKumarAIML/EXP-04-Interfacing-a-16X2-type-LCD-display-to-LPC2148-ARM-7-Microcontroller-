@@ -1,10 +1,8 @@
-# EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
+# EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller
+### Name : Sanjay Kumar.S.S
+### Roll no: 212221240048
+### Date of Experiment : 
 
-Name : Sanjay Kumar.S.S
-
-Roll no :212221240048
-
-## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
 ## Aim: 
 To Interface 16X2 type LCD display to LPC2148 ARM 7 and write a code for displaying a string to it
@@ -118,6 +116,8 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 ## Kiel - Program  
 ```
+
+
 #include <lpc214x.h>
 #include <stdint.h>
 #include <stdlib.h>
@@ -190,11 +190,31 @@ int main(void)
 }
 ```
 
+
+
+
 ## Proteus simulation 
 ![pm](a.png)
+
+
+
+
+
+
 ![p](b.png)
+
+
+
 ##  layout Diagram 
 ![pm](c.png)
 
+
 ## Result :
+
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings  
+
+ 
+
+
+
+
